@@ -15,7 +15,6 @@ if($_SESSION['authorization'] == 'Admin') {
 ?>
 
 <!DOCTYPE html>
-<!-- Created By CodingNepal - www.codingnepalweb.com -->
 <html lang="en">
 <head>
 	<title>Products - HIGH QUALITY DENIM</title>
@@ -23,7 +22,7 @@ if($_SESSION['authorization'] == 'Admin') {
     <link rel="shortcut icon" type="image/png" href="image/icon.png">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/shop-style.css">
-    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <script src="https://kit.fontawesome.com/8762c0f933.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" integrity="sha512-1cK78a1o+ht2JcaW6g8OXYwqpev9+6GqOkz9xmBN9iUUhIndKtxwILGWYOSibOKjLsEdjyjZvYDq/cZwNeak0w==" crossorigin="anonymous" />
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">

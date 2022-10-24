@@ -18,11 +18,11 @@
  * FITNESS FOR A PARTICULAR PURPOSE.
  */
 
-namespace PHPMailer\PHPMailer;
+namespace PHPMailer;
 
-use League\OAuth2\Client\Grant\RefreshToken;
-use League\OAuth2\Client\Provider\AbstractProvider;
-use League\OAuth2\Client\Token\AccessToken;
+use RefreshToken;
+use AbstractProvider;
+use AccessToken;
 
 /**
  * OAuth - OAuth2 authentication wrapper class.

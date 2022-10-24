@@ -3,7 +3,7 @@
 $host = "127.0.0.1";
 $db = "rucas_clothing_store";
 $username = "root";
-$password = "";
+$password = "pass1234";
 $charset = "utf8mb4";
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
@@ -16,7 +16,7 @@ $options = [
 
 try {
     $pdo = new PDO($dsn, $username, $password, $options);
-} catch (\PDOException $e) {
+} catch (PDOException $e) {
     //throw new \PDOExeption($e->getMessage(), (int)$e->getCode());
     echo "Error Connect to Database Msg: ".$e->getMessage();
 }

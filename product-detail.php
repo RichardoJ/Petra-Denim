@@ -25,7 +25,6 @@ if ($stmt->rowCount() < 1) {
 ?>
 
 <!DOCTYPE html>
-<!-- Created By CodingNepal - www.codingnepalweb.com -->
 <html lang="en">
 <head>
 	<title>Products - HIGH QUALITY DENIM</title>

@@ -4,7 +4,7 @@ session_start();
 
 require $_SERVER['DOCUMENT_ROOT']."/rucas.co/conn.php";
 
-use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer;
 
 
 header("Content-Type: application/json");

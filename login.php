@@ -39,16 +39,14 @@ if (isset($_SESSION['name'])) {
 ?>
 
 <!DOCTYPE html>
-<!-- Created By CodingNepal - www.codingnepalweb.com -->
 <html lang="en">
 <head>
     <title>My Account - PETRADENIM</title>
     <meta charset="UTF-8">
     <link rel="shortcut icon" type="image/png" href="image/icon.png">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!--  <title>Responsive Sticky Navbar | CodingNepal</title> -->
     <link rel="stylesheet" href="css/style.css">
-    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <script src="https://kit.fontawesome.com/8762c0f933.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 
 </head>

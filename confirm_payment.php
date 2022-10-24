@@ -3,7 +3,6 @@
 ?>
 
 <!DOCTYPE html>
-<!-- Created By CodingNepal - www.codingnepalweb.com -->
 <html lang="en">
 <head>
 	<title>Payment - PETRADENIM</title>

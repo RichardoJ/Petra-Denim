@@ -1,9 +1,9 @@
 <?php
 
-use PHPMailer\PHPMailer\PHPMailer;
+use PHPMailer;
 
 $name = 'Christian Willson';
-$email = 'christianwillson11@yahoo.com';
+$email = 'rich.jason2211@gmail.com';
 
 if ($name != '' && $email != '') {
 
